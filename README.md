@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+developer;...)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gikkid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=defExploit&stroke=%23BB432C)
