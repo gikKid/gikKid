@@ -12,7 +12,4 @@ Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-
-
 ![Codewars](https://github.r2v.ch/codewars?user=defExploit&stroke=%23BB432C)
