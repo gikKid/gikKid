@@ -13,4 +13,4 @@ Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![Codewars](https://github.r2v.ch/codewars?user=defExploit&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+[![Codewars](https://github.r2v.ch/codewars?user=defExploit&top_languages=true&stroke=%23b362ff&theme=purple_dark)(https://www.codewars.com/users/defExploit)]
