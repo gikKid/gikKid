@@ -10,5 +10,4 @@ Technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
 </div>
 
-
 ![Codewars](https://github.r2v.ch/codewars?user=gikKid&top_languages=true&stroke=%23b362ff&theme=purple_dark)
