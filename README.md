@@ -18,5 +18,5 @@ Technologies:
 ![Codewars](https://github.r2v.ch/codewars?user=gikKid&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/gikKid)
-  <a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gikKid&layout=compact)](https://github.com/gikKid)
+  <a href="https://github.com/gikKid"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
