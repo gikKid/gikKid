@@ -19,4 +19,3 @@ Technologies:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gikKid&layout=compact)](https://github.com/gikKid)
-  <a href="https://github.com/gikKid"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
