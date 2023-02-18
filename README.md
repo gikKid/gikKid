@@ -12,8 +12,9 @@ Technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp; 
 </div>
- 
+
+
+Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=activity)
