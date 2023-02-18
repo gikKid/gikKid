@@ -14,4 +14,4 @@ Technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
  
-![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=activity)
