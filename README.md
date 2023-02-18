@@ -2,7 +2,7 @@
 
 # 
 
-Technologies:
+**Technologies:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -16,7 +16,7 @@ Technologies:
 </div>
 
 
-Leetcode stats:
+**Leetcode stats:**
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=activity)
