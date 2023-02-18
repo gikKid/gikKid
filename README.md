@@ -16,7 +16,7 @@ Technologies:
 </div>
 
 
-Leetcode:
+Leetcode stats:
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=activity)
