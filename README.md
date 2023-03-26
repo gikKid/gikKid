@@ -4,7 +4,7 @@
 
 **My AppStore applications:**
 
-WriteMe: Notebook (link - https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
+WriteMe: Notebook (link: https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
 
 # 
 
