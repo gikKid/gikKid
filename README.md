@@ -2,7 +2,6 @@
 
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
-**My AppStore applications:**
 
 WriteMe: Notebook (link: https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
 
