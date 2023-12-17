@@ -14,8 +14,3 @@ WriteMe: Notebook (link: https://apps.apple.com/ru/app/writeme-notebook/id644648
 </div>
 
 #
-
-**Leetcode stats:**
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/EgorNesterenkoSPB?ext=activity)
