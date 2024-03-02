@@ -6,7 +6,6 @@
   
   WriteMe: Notebook (link: https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
 
-
 # 
 
 **Technologies**
