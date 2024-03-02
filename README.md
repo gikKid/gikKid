@@ -1,15 +1,14 @@
 #
 
-**Projects:**
-<div>
+**Projects**
   ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+  
   WriteMe: Notebook (link: https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
-<div>
 
 
 # 
 
-**Technologies:**
+**Technologies**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
@@ -20,7 +19,7 @@
 
 #
 
-**Workspaces:**
+**Workspaces**
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
