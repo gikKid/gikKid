@@ -19,4 +19,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="UNIX" alt="UNIX" width="40" height="40"/>&nbsp;
+  <img src="https://styles.redditmedia.com/t5_75wel6/styles/communityIcon_bgkfioxyzxna1.jpg?format=pjpg&s=fa3e8325a9b53042a665b10577939635737fad79" title="Zed" alt="Zed" width="40" height="40"/>&nbsp;
 </div>
