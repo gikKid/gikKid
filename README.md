@@ -15,7 +15,4 @@
 ## Workspaces
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="UNIX" alt="UNIX" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" title="Zed" alt="Zed" width="40" height="40"/>&nbsp;
 </div>
