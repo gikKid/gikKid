@@ -10,7 +10,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://www.nasm.us/images/nasm.png" title="NASM" alt="NASM" width="40" height="40"/>&nbsp;
 </div>
 
 ## Workspaces
