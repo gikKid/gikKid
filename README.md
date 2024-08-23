@@ -1,5 +1,5 @@
 ## Appstore
-  [WriteMe: Notebook](https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en)
+  [WriteMe: Notebook](https://apps.apple.com/ru/app/writeme-notebook/id6446485523?l=en) (2022)
 
 ## Package
   [Delta calendar](https://github.com/gikKid/DeltaCalendar)
